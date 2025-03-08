@@ -1,0 +1,63 @@
+{
+  "3275628": {
+    "outageData": {
+      "Event ID": "3275628",
+      "Region": "PEPCO",
+      "State": "MDPEPCO",
+      "District": "PRINCE GEORGES CO",
+      "Substation": "Central ave 185",
+      "Feeder ID": "14955",
+      "Start Time": "1/1/2025 12:00:31 AM",
+      "Stop Time": "1/1/2025 12:05:45 AM",
+      "CI": 545,
+      "CMI": 2852.166667,
+      "Event CAIDI": 5.233333333,
+      "Event CAIDI Effect": 0.928683345,
+      "Duration": 5.233333333,
+      "NI": 1,
+      "EU Cause": "Public",
+      "PHI Cause": "Foreign Contact",
+      "Subcause": "Dist Primary - OH",
+      "Equipment Type": "Unselected",
+      "Operating Device": "Cable",
+      "Op. Device ID": "BRKR834384-107035-1_14955",
+      "Comments": "PAC cable shot, isolated section with DA. restoring all load.",
+      "Troubleman Comments": "[E988462] PragmaFIELD E035:482 AutoDispose",
+      "Fault Location 1": "832384-8860",
+      "Fault Location 2": "",
+      "First Call": "1/1/2025 12:01:53 AM",
+      "Dispatch Time": "1/1/2025 12:21:03 AM",
+      "En Route Time": "1/1/2025 12:21:03 AM",
+      "On Site Time": "1/1/2025 1:21:07 AM",
+      "Completion Time": "1/1/2025 3:23:56 AM",
+      "Minor Storm": "N",
+      "Company Storm (MED)": "N",
+      "Parts Served Flag": 0
+    },
+    "assignmentStatus": {
+      "major": false,
+      "hybrid": false,
+      "minor": true,
+      "condition": [],
+      "assignment": {
+        "reported": false,
+        "assigned": false,
+        "assignedActions": {}
+      },
+      "completed": false
+    },
+    "validationStatus": {
+      "validated": false,
+      "newData": {},
+      "requestedValidations": {}
+    },
+    "catDeliverables": {
+      "ameSynopsis": {},
+      "outageInfo": {},
+      "feederInfo": {},
+      "ongoingWork": {},
+      "patrol": {},
+      "nextSteps": {}
+    }
+  }
+}
